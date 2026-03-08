@@ -13,7 +13,7 @@
 
 # 사용법
 
-- 먼저 파이선을 다운해야해요!! [여기서](https://www.python.org/downloads/) 다운 가능해요!!
+- 먼저 파이선을 다운해야해요!! [여기서](https://www.python.org/downloads/) 다운 가능해요!! ( 되도록이면 3.12.9 버전을 다운로드 해주세요!! )
 - 설치시에는 반드시, **Add Python to PATH** 옵션을 체크해야해요!!
 - 설치 후엔 설치가 잘 됬는지 확인하기 위해서, cmd에 들어가 `python --version`을 하셔서 체크해보세요!!
 - 설치가 완료 되었다면, `git clone https://github.com/sanssanssanssanssanssans/linecute`를 하시거나, ZIP 파일로 다운로드 하셔서 압축을 풀어주세요!!
